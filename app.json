@@ -1,0 +1,18 @@
+{
+    "appName": "dummy app",
+    "appTemplate": "simple",
+    "navigation": [{
+            "name": "Home",
+            "appName": "home",
+            "default": true
+        },
+        {
+            "name": "about",
+            "appName": "about"
+        }
+    ],
+    "libs": [
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js"
+    ]
+}
